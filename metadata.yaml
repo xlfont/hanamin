@@ -1,0 +1,24 @@
+- name: HanaMinA
+  displayname: 花園明朝A
+  category: serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/HanaMinA
+        codes: 41494
+        weight: 400
+        xfl: true
+- name: HanaMinB
+  displayname: 花園明朝B
+  category: serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/HanaMinB
+        codes: 60418
+        weight: 400
+        xfl: true
